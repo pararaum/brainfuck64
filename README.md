@@ -1,2 +1,2 @@
 # brainfuck64.github.io
-Brainfuck for the Commodore C64
+Brainfuck implementation for the Commodore C64
